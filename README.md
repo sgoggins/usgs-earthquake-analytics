@@ -83,6 +83,7 @@ Place your USGS GeoJSON file in the data/ directory as GeoQuake.json.
 
 ## Repository Structure
 
+```
 ├── data/
 │   └── GeoQuake.json
 ├── src/
@@ -95,4 +96,5 @@ Place your USGS GeoJSON file in the data/ directory as GeoQuake.json.
 │   ├── frequency_over_time.png
 │   └── captions.md
 ├── README.md
-└── DATA.md   # usgs-earthquake-predictiveve
+└── DATA.md   # usgs-earthquake-predictive
+```
