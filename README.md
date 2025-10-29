@@ -86,8 +86,8 @@ Place your USGS GeoJSON file in the data/ directory as GeoQuake.json.
 ├── data/
 │   └── GeoQuake.json
 ├── src/
-│   └── visualize_earthquakes.py
-|   |__ extension.ipynb
+│   ├── visualize_earthquakes.py
+│   └── extension.ipynb
 ├── visualizations/
 │   ├── heatmap_temporal.html
 │   ├── heatmap_temporal.mp4
@@ -95,4 +95,4 @@ Place your USGS GeoJSON file in the data/ directory as GeoQuake.json.
 │   ├── frequency_over_time.png
 │   └── captions.md
 ├── README.md
-└── DATA.md# usgs-earthquake-predictive
+└── DATA.md   # usgs-earthquake-predictiveve
